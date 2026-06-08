@@ -1,6 +1,6 @@
 <div align="center">
-  </h1>SpotNeoTify</h1>
-
+  <h1>SpotNeoTify</h1>
+  
   TUI-inspired theme with dynamic pywal integration, and many preconfigured colorschemes!
 </div>
 
