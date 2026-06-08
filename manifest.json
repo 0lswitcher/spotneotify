@@ -1,0 +1,14 @@
+{
+    "name": "SpotNeoTify",
+    "description": "TUI-inspired theme with dynamic pywal integration, and many preconfigured colorschemes!",
+    "preview": "md-assets/spicetify-PurpPink.png",
+    "readme": "README.md",
+    "usercss": "user.css",
+    "schemes": "color.ini",
+    "branch": "main",
+    "authors": [
+        { "name": "0lswitcher", "url": "https://github.com/0lswitcher" },
+        { "name": "darkthemer", "url": "https://github.com/darkthemer" }
+    ],
+    "tags": ["latest", "customizable", "pywal-integration"]
+}
