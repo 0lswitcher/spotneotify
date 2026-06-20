@@ -53,7 +53,9 @@ Next, there are 21+ different colorschemes designed for specific use with this t
 rather than assumedly binding a color generated color pallete.
 
 > I do not take credit for the following colorschemes, they are all part of the original \
-[text](https://github.com/spicetify/spicetify-themes/tree/master/text) theme that SpotNeoTify is built off of.
+> [text](https://github.com/spicetify/spicetify-themes/tree/master/text) theme that SpotNeoTify is built off of.
+>
+> The screenshots below are also sourced from the above repository, so use them as a reference of color, not layout.
 
 ### CatppuccinMocha
 
@@ -143,6 +145,11 @@ spicetify backup apply
 And simply hope the formatting fixes. If not, either manual fixing is required, or you'll \
 have to wait until I push the newest update with the corrected formatting. 
 
+> [!TIP]
+> I highly recommend pinning/locking your spotify version to prevent issues like this in the future.
+> 
+> This can be done a number of ways and is dependant on your installation method, \
+> so please research the required method for your version.
 
 ## Credits
 Based on [text](https://github.com/spicetify/spicetify-themes/tree/master/text) by [darkthemer](https://github.com/darkthemer/)
